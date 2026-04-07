@@ -63,3 +63,6 @@ Proje, teknik veriyi bir "Yönetici Özeti"ne dönüştürür. Üretilen "Otomot
     otomotiv_segmentasyon_analizi.png: Segmentasyon dağılım grafiği (Dashboard).
 
     otomotiv_stratejik_analiz_raporu.csv: Atanmış segmentleri içeren detaylı müşteri listesi.
+    
+Geliştiren: Mercan Köseoğlu
+Data Analyst & SAP ABAP Consultant
